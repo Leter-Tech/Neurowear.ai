@@ -1,0 +1,17 @@
+#topTitle {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+#subTitle {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#imageContainer {
+    text-align: center;
+}
