@@ -31,8 +31,6 @@ Neurowear.ai is an **AI-powered wearable solution** designed to address the uniq
 
 4. **User-Friendly App**: Offers seizure logs, medicine reminders, diet planning, and seizure management tips.
 
-
-
 ## How It Works 🛠️
 
 ### The Wearable Ecosystem
