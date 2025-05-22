@@ -129,4 +129,15 @@ Neurowear.ai is more than just technology—it’s a mission to empower individu
 
 ---
 
+## 🛡️ License
+
+This project is shared publicly for learning and inspiration purposes only.
+
+❌ You may **NOT** copy, reuse, redistribute, or modify this code.  
+✅ You may view and learn from the code.
+
+Copyright © | All rights reserved
+
+---
+
 Built with ❤️ for a safe and inclusive future for everyone.
